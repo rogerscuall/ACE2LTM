@@ -1,10 +1,5 @@
 __author__ = 'Roger Gomez'
 from LTM import *
-__author__ = 'rgomez'
-
-
-
-file = '/Users/rgomez/OneDrive/Programs/ACE2LTM/ace.txt'
 
 
 class LTMConfig:

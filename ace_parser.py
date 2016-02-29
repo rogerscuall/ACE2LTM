@@ -4,8 +4,6 @@ from ciscoconfparse import CiscoConfParse
 import sys
 
 
-# file = '/Users/rgomez/OneDrive/Programs/GitHub/ACE2LTM/ace.txt'
-
 class ACE:
     def __init__(self, file):
         """
