@@ -19,7 +19,3 @@ Assist in the initial migration from Cisco ACE to LTM.
 ## Requirements
 
 - [CiscoConfParse](http://www.pennington.net/py/ciscoconfparse/)
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
