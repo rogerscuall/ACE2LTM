@@ -8,7 +8,7 @@ Project to help in the migration from Cisco ACE to F5 LTM, all nodes, pools and 
 
 Will create file in the same directory with the configuration of the LTM ready to paste in the tmsh cli.
 
-`convert.py ace_config.txt -c"`
+`convert.py ace_config.txt -c`
 
 Provide the number of nodes, pools and virtual servers in the ACE configuration.
 
