@@ -1,4 +1,4 @@
-
+__author__ = 'Roger Gomez'
 from LTM import *
 __author__ = 'rgomez'
 

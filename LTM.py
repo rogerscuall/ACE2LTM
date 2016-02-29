@@ -1,4 +1,4 @@
-__author__ = 'rgomez'
+__author__ = 'Roger Gomez'
 from ace_parser import ACE
 
 

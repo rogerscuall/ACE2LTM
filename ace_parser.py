@@ -1,9 +1,10 @@
+__author__ = 'Roger Gomez'
 from ciscoconfparse import CiscoConfParse
 # from __future__ import print_function
 import sys
 
 
-# file = '/Users/rgomez/OneDrive/Programs/ACE2LTM/ace.txt'
+# file = '/Users/rgomez/OneDrive/Programs/GitHub/ACE2LTM/ace.txt'
 
 class ACE:
     def __init__(self, file):
