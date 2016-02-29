@@ -67,4 +67,6 @@ target/
 out
 gen
 *.txt
+/LTM-Config.txt
+.gitignore
 # Created by .ignore support plugin (hsz.mobi)
