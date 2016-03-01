@@ -1,6 +1,6 @@
 ## Synopsis
 
-Project to help in the migration from Cisco ACE to F5 LTM, all nodes, pools and virtual servers can be migrated to tmsh syntax. Also some counts of the number of objects can be done.
+Project to help in the migration from Cisco ACE to F5 LTM, all nodes, pools and virtual servers can be migrated to tmsh syntax.
 
 ## Code Example
 
